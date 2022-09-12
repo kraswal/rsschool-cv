@@ -1,6 +1,5 @@
 # CHINGIS ASALKHANOV <img src="ava.jpg" style="height: 200px; margin-left: 150px;">
 Junior Front-end Developer
----
 ## ABOUT ME
 I got my bachelor's degree in computer science. I have programming experience in **C#, Java**. In my graduation work *I developed web application for invesment accounting*.
 Also, I studied as a translator Russian/English for 1 year. So my level of language is **English B2**.
